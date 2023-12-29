@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/hui-ting-wu-7b6732149/">![image](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 
 ## About Me
-![image](https://github.com/devicons/devicon/raw/master/icons/redis/redis-original-wordmark.svg)
+<image src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original-wordmark.svg" height=200px>
