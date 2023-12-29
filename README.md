@@ -1,7 +1,7 @@
 <h3 align="center">Hi! This is Hui-Ting 👋</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hui-ting-wu-7b6732149/">
+  <a href="https://www.linkedin.com/in/hui-ting-wu-7b6732149/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 </p>
