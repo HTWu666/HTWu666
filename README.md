@@ -1,4 +1,4 @@
-<h3 align="center">Hi! This is Hui-Ting 👋</h3>
+<h3 align="center">Hi! This is Hui-Ting Wu👋</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hui-ting-wu-7b6732149/" target="_blank">
